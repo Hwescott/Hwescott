@@ -1,4 +1,4 @@
-##Henry Wescott
+## Henry Wescott
 
 * I've coded in JavaScript last year
 * I'm taking this class because I wanted to continue to learn about computer science and coding.
